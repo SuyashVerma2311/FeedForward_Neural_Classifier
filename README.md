@@ -6,15 +6,15 @@
 
 ### Dataset:
   - MNIST Handwritten Digits:  
-  ![Sample of Dataset](https://raw.githubusercontent.com/SuyashVerma2311/feedforward_neural_classfier/main/data/dataset.png)
+  ![Sample of Dataset](https://raw.githubusercontent.com/SuyashVerma2311/FeedForward_Neural_Classifier/master/data/dataset.png)
   
 
 ### Accuracy & Loss:  
-  - Accuracy of the model plotted against no. of iteration(epochs)  
-  ![Accuracy vs. epochs](https://raw.githubusercontent.com/SuyashVerma2311/feedforward_neural_classfier/main/data/accuracy_epoch.png)
-  - Loss of the model plotted against no. of iteration(epochs)  
-  ![Loss vs. epochs)](https://raw.githubusercontent.com/SuyashVerma2311/feedforward_neural_classfier/main/data/loss_epoch.png)
+  - Accuracy of the model plotted against no. of iterations (epochs)  
+  ![Accuracy vs. epochs](https://raw.githubusercontent.com/SuyashVerma2311/FeedForward_Neural_Classifier/master/data/accuracy_epoch.png)
+  - Loss of the model plotted against no. of iterations (epochs)  
+  ![Loss vs. epochs)](https://raw.githubusercontent.com/SuyashVerma2311/FeedForward_Neural_Classifier/master/data/loss_epoch.png)
   
 ### Predictions:   
-![Correctly_predicted_ones](https://raw.githubusercontent.com/SuyashVerma2311/feedforward_neural_classfier/main/data/prediction_1.png)
-![Correctly_predicted_ones](https://raw.githubusercontent.com/SuyashVerma2311/feedforward_neural_classfier/main/data/prediction_2.png)
+  - ![Correctly_predicted_ones](https://raw.githubusercontent.com/SuyashVerma2311/FeedForward_Neural_Classifier/master/data/prediction_1.png)
+  ![Correctly_predicted_ones](https://raw.githubusercontent.com/SuyashVerma2311/FeedForward_Neural_Classifier/master/data/prediction_2.png)
